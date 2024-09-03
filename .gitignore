@@ -13,3 +13,5 @@ obj/
 
 First/bin/
 First/debug/
+/.vs/my-first-WPF-app/config/applicationhost.config
+/.vs/tasks.vs.json
