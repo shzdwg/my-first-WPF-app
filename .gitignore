@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/my-first-WPF-app/v17/.suo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+
+
+# Ignmre build folders
+bin/
+obj/
+
+First/bin/
+First/debug/
+/.vs/my-first-WPF-app/config/applicationhost.config
+/.vs/tasks.vs.json

@@ -48,7 +48,7 @@
             </Grid.RowDefinitions>
 
             <!-- Name -->
-            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Orientation="Horizontal">
+            <StackPanel Background="Green" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Orientation="Horizontal">
                 <Label Style="{StaticResource labelStyle}">Name:</Label>
                 <Label Style="{StaticResource labelStyle}" Content="{Binding XPath=@Name}"></Label>
             </StackPanel>
