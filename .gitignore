@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs/my-first-WPF-app/v17/.suo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+
+
+# Ignmre build folders
+bin/
+obj/
+
+First/bin/
+First/debug/
